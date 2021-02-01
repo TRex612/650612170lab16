@@ -3,7 +3,7 @@
 #include <ctime>
 using namespace std;
 
-void shuffle(int &,int &, int &, int &);
+void shuffle(int &,int &,int &,int &);
 
 int main(){
 	int a = 50, b = 100, c = 500, d = 1000;
