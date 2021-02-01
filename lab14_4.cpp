@@ -17,5 +17,3 @@ int main(){
 	
 	return 0;
 }
-
-//Write definition of shuffle() here 
